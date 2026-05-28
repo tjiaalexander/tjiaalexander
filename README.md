@@ -1,4 +1,4 @@
-# 🌌 Hi there, I'm Alexander Bangkit Sugiharto Pranoto 👋
+# 🌌 Hi there, I'm Alexander👋
 
 <div align="center">
 
@@ -45,15 +45,11 @@ Currently Learning:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight&hide_border=true"/>
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight)
 
 ---
 
@@ -82,16 +78,6 @@ Currently Learning:
 ## ✨ Quote
 
 > “Turning ideas into intelligent systems and modern web experiences.”
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/tjiaalexander/tjiaalexander/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
