@@ -44,9 +44,9 @@ Currently Learning:
 ---
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjiaalexander&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjiaalexander&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjiaalexander&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjiaalexander&theme=tokyonight)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjiaalexander&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjiaalexander&theme=tokyonight)
 
 ---
 
