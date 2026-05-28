@@ -42,14 +42,19 @@ Currently Learning:
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight" />
+</p>
 
 ---
 
