@@ -45,11 +45,11 @@ Currently Learning:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjiaalexander\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tjiaalexander\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -74,6 +74,6 @@ Currently Learning:
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=tjiaalexander\&color=blueviolet\&style=for-the-badge)
 
 </div>
