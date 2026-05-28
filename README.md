@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Web+Developer;AI+%26+Data+Science+Enthusiast;Backend+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Web+Developer;Backend+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -46,9 +46,7 @@ Currently Learning:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjiaalexander&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjiaalexander&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjiaalexander&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjiaalexander&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjiaalexander&theme=tokyonight)
 
 ---
 
