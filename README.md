@@ -1,4 +1,4 @@
-# 🌌 Hi there, I'm YOUR_NAME 👋
+# 🌌 Hi there, I'm Alexander 👋
 
 <div align="center">
 
@@ -45,11 +45,11 @@ Currently Learning:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjiaalexander\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tjiaalexander\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight\&hide_border=true)
 
 </div>
 
