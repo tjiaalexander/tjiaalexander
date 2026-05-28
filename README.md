@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name: YOUR_NAME
+Name: Alexander Bangkit Sugiharto Pranoto
 Role: IT Student
 Focus:
   - Web Development
