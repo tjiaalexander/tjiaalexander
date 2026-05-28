@@ -44,17 +44,11 @@ Currently Learning:
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjiaalexander&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjiaalexander&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjiaalexander&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tjiaalexander&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tjiaalexander&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjiaalexander&theme=tokyonight)
 
 ---
 
